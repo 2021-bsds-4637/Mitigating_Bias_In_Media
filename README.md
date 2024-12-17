@@ -1,1 +1,1 @@
-# Mitigating_Bias_In_Media
+This project is a Fake News Detection System that uses Machine Learning to Classify News Articles as either Fake or Real. The system leverages TF-IDF for text vectorization and a Classification Model trained on two datasets:The News Dataset and the LIAR Dataset. It features an interactive Streamlit interface that allows users to input News Text and receive real-time predictions about its authenticity.
